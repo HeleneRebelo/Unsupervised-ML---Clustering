@@ -26,6 +26,7 @@ Also a presentation on the project
 ## Folder Structure
 
 /docs: This directory contains the final presentation for the project.
+
 /src: Inside this folder, you will find the Notebook with the codes.
 
 ## Data Cleaning and Preparation
