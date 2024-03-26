@@ -74,10 +74,14 @@ Additionally, obtaining an API key from Spotify would enable the development of 
 
 ## Analysis Summary
 
-The k-Means clustering algorithm demonstrated its effectiveness in segmenting our dataset into distinct, meaningful groups.
-The optimal number of clusters for this particular dataset seems to be around 20, as it provides the highest silhouette score, indicating a better structure and separation between the clusters.
-Using a machine to create a playlist is time and cost-effective, even if the results are not as accurate as those from music experts.
+- The k-Means clustering algorithm demonstrated its effectiveness in segmenting our dataset into distinct, meaningful groups.
 
+- The optimal number of clusters for this particular dataset seems to be around 20, as it provides the highest silhouette score, indicating a better structure and separation between the clusters.
+
+- Using a machine to create a playlist is time and cost-effective, even if the results are not as accurate as those from music experts.
+
+### This project was made possible by the collaborative efforts of our team:
+Me, [TsveteLina Yordanova](https://github.com/LinaYorda), and Gustavo Rodríguez
 
 
 
