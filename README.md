@@ -12,10 +12,6 @@ Moosic provides playlist creation automation to help music experts by building a
 
 Categorize the songs into an appropriate number of clusters. Is K-Means an effective method for creating playlists or should we explore other algorithms or methods in our playlist creation process?
 
-## Data Source
-
-A dataset of just over 5,000 song titles with Spotify audio features that describe them
-
 ## Tools used
 
 Python pandas
@@ -29,9 +25,9 @@ Also a presentation on the project
 
 /src: Inside this folder, you will find the Notebook with the codes.
 
-## Data Cleaning and Preparation
+## Data Source, Cleaning and Preparation
 
-The dataset consisted of 5,235 songs, but after cleaning the data, using only numeric values, and eliminating duplicates, the total was reduced to 5,114 songs. 
+The dataset consisted of 5,235 song titles with Spotify audio features that describe them. After cleaning the data, using only numeric values, and eliminating duplicates, the total was reduced to 5,114 songs. 
 
 ### Dataset
 
