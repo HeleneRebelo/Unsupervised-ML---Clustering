@@ -12,13 +12,6 @@ Moosic provides playlist creation automation to help music experts by building a
 
 Categorize the songs into an appropriate number of clusters. Is K-Means an effective method for creating playlists or should we explore other algorithms or methods in our playlist creation process?
 
-## Tools used
-
-Python pandas
-Pyhton SciKit Learn
-Plotly for visualization
-Also a presentation on the project
-
 ## Folder Structure
 
 /docs: This directory contains the final presentation for the project.
